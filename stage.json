@@ -37,35 +37,16 @@
         "placeHolderObstacle": false
       }
     ],
-    "enemies": [
-      {
-        "modelId": 101,
-        "row": 3,
-        "col": 4
-      },
-      {
-        "modelId": 102,
-        "row": 5,
-        "col": 6
-      }
-    ],
+    "enemies": [],
     "angel": {
       "row": 2,
       "col": 5,
       "angelPrefabName": "Angel",
       "firstSlotSkillRewardsForAngel": [
-        {
-          "skillId": 1,
-          "probability": 0.7,
-          "skillCategory": "arrow"
-        }
+        { "skillId": 1, "probability": 0.7, "skillCategory": "arrow" }
       ],
       "secondSlotSkillRewardsForAngel": [
-        {
-          "skillId": 2,
-          "probability": 0.3,
-          "skillCategory": "boost"
-        }
+        { "skillId": 2, "probability": 0.3, "skillCategory": "boost" }
       ]
     }
   },
@@ -108,61 +89,47 @@
       }
     ],
     "enemies": [
+      { "modelId": 201, "row": 4, "col": 5 },
+      { "modelId": 202, "row": 6, "col": 2 }
+    ],
+    "angel": null
+  },
+  {
+    "width": 14,
+    "height": 10,
+    "angelLevel": false,
+    "obstacles": [
       {
-        "modelId": 201,
-        "row": 4,
-        "col": 5
-      },
-      {
-        "modelId": 202,
-        "row": 6,
-        "col": 2
+        "row": 3,
+        "col": 2,
+        "type": "nonDamage",
+        "movetype": "stationary",
+        "movePathType": "horizontal",
+        "_movementTime": 0.0,
+        "verticalMovementTiles": 0,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 0.0,
+        "stayDamage": 0.0,
+        "obstaclePrefabName": "Plant2",
+        "obstaclePathPrefabName": "",
+        "blockedObstacle": false,
+        "placeHolderObstacle": false
       }
     ],
-   "angel": {
-      "row": 2,
-      "col": 5,
-      "angelPrefabName": "Angel",
-      "firstSlotSkillRewardsForAngel": [
-        {
-          "skillId": 1,
-          "probability": 0.7,
-          "skillCategory": "arrow"
-        }
-      ],
-      "secondSlotSkillRewardsForAngel": [
-        {
-          "skillId": 2,
-          "probability": 0.3,
-          "skillCategory": "boost"
-        }
-      ]
-    }
+    "enemies": [
+      { "modelId": 301, "row": 2, "col": 3 },
+      { "modelId": 302, "row": 5, "col": 6 }
+    ],
+    "angel": null
   },
   {
     "width": 15,
     "height": 10,
-    "angelLevel": true,
+    "angelLevel": false,
     "obstacles": [
       {
-        "row": 5,
-        "col": 1,
-        "type": "damage",
-        "movetype": "stationary",
-        "movePathType": "both",
-        "_movementTime": 2.5,
-        "verticalMovementTiles": 1,
-        "horizantalMovementTiles": 1,
-        "entryDamage": 5.0,
-        "stayDamage": 3.0,
-        "obstaclePrefabName": "SawObstacle",
-        "obstaclePathPrefabName": "",
-        "blockedObstacle": false,
-        "placeHolderObstacle": true
-      },
-      {
-        "row": 3,
-        "col": 3,
+        "row": 4,
+        "col": 4,
         "type": "nonDamage",
         "movetype": "stationary",
         "movePathType": "horizontal",
@@ -178,41 +145,23 @@
       }
     ],
     "enemies": [
-      {
-        "modelId": 301,
-        "row": 2,
-        "col": 8
-      },
-      {
-        "modelId": 302,
-        "row": 7,
-        "col": 9
-      },
-      {
-        "modelId": 303,
-        "row": 4,
-        "col": 3
-      }
+      { "modelId": 401, "row": 3, "col": 5 },
+      { "modelId": 402, "row": 6, "col": 7 }
     ],
-    "angel": {
-      "row": 1,
-      "col": 1,
-      "angelPrefabName": "Angel",
-      "firstSlotSkillRewardsForAngel": [
-        {
-          "skillId": 3,
-          "probability": 0.5,
-          "skillCategory": "explosive"
-        }
-      ],
-      "secondSlotSkillRewardsForAngel": [
-        {
-          "skillId": 4,
-          "probability": 0.4,
-          "skillCategory": "arrow"
-        }
-      ]
-    }
-  }
-]
-
+    "angel": null
+  },
+  {
+    "width": 16,
+    "height": 12,
+    "angelLevel": true,
+    "obstacles": [
+      {
+        "row": 5,
+        "col": 1,
+        "type": "damage",
+        "movetype": "stationary",
+        "movePathType": "both",
+        "_movementTime": 2.5,
+        "verticalMovementTiles": 1,
+        "horizantalMovementTiles": 1,
+        "entryDamage":
