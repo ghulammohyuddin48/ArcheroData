@@ -1,0 +1,151 @@
+[
+  {
+    "width": 10,
+    "height": 8,
+    "angelLevel": true,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "type": "damage",
+        "movetype": "nonStationary",
+        "movePathType": "vertical",
+        "_movementTime": 1.5,
+        "verticalMovementTiles": 2,
+        "horizantalMovementTiles": 0,
+        "entryDamage": 10.0,
+        "stayDamage": 2.0,
+        "obstaclePrefabName": "spikeTrap",
+        "obstaclePathPrefabName": "trapPath",
+        "blockedObstacle": false,
+        "placeHolderObstacle": false
+      }
+    ],
+    "enemies": [
+      {
+        "modelId": 101,
+        "row": 3,
+        "col": 4
+      },
+      {
+        "modelId": 102,
+        "row": 5,
+        "col": 6
+      }
+    ],
+    "angel": {
+      "row": 2,
+      "col": 5,
+      "angelPrefabName": "angelBlue",
+      "firstSlotSkillRewardsForAngel": [
+        {
+          "skillId": 1,
+          "probability": 0.7,
+          "skillCategory": "arrow"
+        }
+      ],
+      "secondSlotSkillRewardsForAngel": [
+        {
+          "skillId": 2,
+          "probability": 0.3,
+          "skillCategory": "boost"
+        }
+      ]
+    }
+  },
+  {
+    "width": 12,
+    "height": 9,
+    "angelLevel": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 3,
+        "type": "nonDamage",
+        "movetype": "stationary",
+        "movePathType": "horizontal",
+        "_movementTime": 0.0,
+        "verticalMovementTiles": 0,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 0.0,
+        "stayDamage": 0.0,
+        "obstaclePrefabName": "box",
+        "obstaclePathPrefabName": "pathBox",
+        "blockedObstacle": true,
+        "placeHolderObstacle": false
+      }
+    ],
+    "enemies": [
+      {
+        "modelId": 201,
+        "row": 4,
+        "col": 5
+      },
+      {
+        "modelId": 202,
+        "row": 6,
+        "col": 2
+      }
+    ],
+    "angel": null
+  },
+  {
+    "width": 15,
+    "height": 10,
+    "angelLevel": true,
+    "obstacles": [
+      {
+        "row": 5,
+        "col": 1,
+        "type": "damage",
+        "movetype": "nonStationary",
+        "movePathType": "both",
+        "_movementTime": 2.5,
+        "verticalMovementTiles": 1,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 5.0,
+        "stayDamage": 3.0,
+        "obstaclePrefabName": "fireTrap",
+        "obstaclePathPrefabName": "firePath",
+        "blockedObstacle": false,
+        "placeHolderObstacle": true
+      }
+    ],
+    "enemies": [
+      {
+        "modelId": 301,
+        "row": 2,
+        "col": 8
+      },
+      {
+        "modelId": 302,
+        "row": 7,
+        "col": 9
+      },
+      {
+        "modelId": 303,
+        "row": 4,
+        "col": 3
+      }
+    ],
+    "angel": {
+      "row": 1,
+      "col": 1,
+      "angelPrefabName": "angelRed",
+      "firstSlotSkillRewardsForAngel": [
+        {
+          "skillId": 3,
+          "probability": 0.5,
+          "skillCategory": "explosive"
+        }
+      ],
+      "secondSlotSkillRewardsForAngel": [
+        {
+          "skillId": 4,
+          "probability": 0.4,
+          "skillCategory": "arrow"
+        }
+      ]
+    }
+  }
+]
