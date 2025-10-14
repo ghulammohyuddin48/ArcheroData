@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "type": "Ring",
+    "subType": "BearRing",
+    "rarity": "Common",
+    "name": "Bear Ring",
+    "description": "Increases defense and resilience.",
+    "iconName": "icon_bearring",
+    "stats": [
+      { "type": "DamageResistance", "value": 5, "desc": "Reduces incoming damage by 5%" },
+      { "type": "HealingEffectOfRedHeart", "value": 2, "desc": "Heals 2% more from red hearts" }
+    ],
+    "statsId": 301
+  },
+  {
+    "id": 2,
+    "type": "Ring",
+    "subType": "WolfRing",
+    "rarity": "Rare",
+    "name": "Wolf Ring",
+    "description": "Increases attack and critical chance.",
+    "iconName": "icon_wolfring",
+    "stats": [
+      { "type": "Attack", "value": 10, "desc": "Increases attack by 10" },
+      { "type": "CritChance", "value": 5, "desc": "Increases critical hit chance by 5%" }
+    ],
+    "statsId": 302
+  },
+  {
+    "id": 3,
+    "type": "Ring",
+    "subType": "FalconRing",
+    "rarity": "Epic",
+    "name": "Falcon Ring",
+    "description": "Increases attack speed and dodge chance.",
+    "iconName": "icon_falconring",
+    "stats": [
+      { "type": "AttackSpeed", "value": 15, "desc": "Increases attack speed by 15%" },
+      { "type": "Dodge", "value": 10, "desc": "Increases dodge chance by 10%" }
+    ],
+    "statsId": 303
+  },
+  {
+    "id": 4,
+    "type": "Ring",
+    "subType": "SerpentRing",
+    "rarity": "Legendary",
+    "name": "Serpent Ring",
+    "description": "Poisons enemies and deals extra elemental damage.",
+    "iconName": "icon_serpentring",
+    "stats": [
+      { "type": "DealsPoisonDamageToAll", "value": 8, "desc": "Deals 8 damage to all poisoned enemies" },
+      { "type": "DealsFlameDamage", "value": 5, "desc": "Deals 5 flame damage per hit" }
+    ],
+    "statsId": 304
+  },
+  {
+    "id": 5,
+    "type": "Ring",
+    "subType": "LionRing",
+    "rarity": "PerfectEpic",
+    "name": "Lion Ring",
+    "description": "Boosts attack and attack speed temporarily.",
+    "iconName": "icon_lionring",
+    "stats": [
+      { "type": "Attack", "value": 20, "desc": "Increases attack by 20" },
+      { "type": "AttackSpeedFor3Sec", "value": 10, "desc": "Boosts attack speed for 3 sec by 10%" }
+    ],
+    "statsId": 305
+  },
+  {
+    "id": 6,
+    "type": "Ring",
+    "subType": "BullRing",
+    "rarity": "Great",
+    "name": "Bull Ring",
+    "description": "Increases collision resistance and critical damage.",
+    "iconName": "icon_bullring",
+    "stats": [
+      { "type": "CollisionResistance", "value": 12, "desc": "Reduces knockback from collisions by 12%" },
+      { "type": "CritDamage", "value": 8, "desc": "Increases critical damage by 8%" }
+    ],
+    "statsId": 306
+  }
+]

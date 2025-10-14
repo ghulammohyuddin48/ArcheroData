@@ -1,0 +1,44 @@
+{
+  "gameLevelStats": [
+    {
+      "targetXpsForNextLevel": 100,
+      "rewardGems": 5
+    },
+    {
+      "targetXpsForNextLevel": 250,
+      "rewardGems": 10
+    },
+    {
+      "targetXpsForNextLevel": 500,
+      "rewardGems": 15
+    },
+    {
+      "targetXpsForNextLevel": 800,
+      "rewardGems": 20
+    },
+    {
+      "targetXpsForNextLevel": 1200,
+      "rewardGems": 25
+    },
+    {
+      "targetXpsForNextLevel": 1700,
+      "rewardGems": 30
+    },
+    {
+      "targetXpsForNextLevel": 2300,
+      "rewardGems": 35
+    },
+    {
+      "targetXpsForNextLevel": 3000,
+      "rewardGems": 40
+    },
+    {
+      "targetXpsForNextLevel": 3800,
+      "rewardGems": 45
+    },
+    {
+      "targetXpsForNextLevel": 4700,
+      "rewardGems": 50
+    }
+  ]
+}

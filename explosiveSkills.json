@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "type": "chillingBlast",
+    "name": "Chilling Blast",
+    "description": "Freezes enemies in the blast radius.",
+    "iconName": "icon_chilling",
+    "postEffectPrefabName": "ChillBlastEffect",
+    "postReceiveEffectPrefabName": "ChillReceiveEffect",
+    "effectDamageAmount": 20,
+    "effectActiveTime": 5,
+    "effectDistance": 3,
+    "stackable": true
+  },
+  {
+    "id": 2,
+    "type": "deathBomb",
+    "name": "Death Bomb",
+    "description": "Explosive damage in a large area.",
+    "iconName": "icon_deathbomb",
+    "postEffectPrefabName": "DeathBombEffect",
+    "postReceiveEffectPrefabName": "DeathBombHit",
+    "effectDamageAmount": 50,
+    "effectActiveTime": 2,
+    "effectDistance": 5,
+    "stackable": false
+  },
+  {
+    "id": 3,
+    "type": "darkTouch",
+    "name": "Dark Touch",
+    "description": "Applies dark energy to enemies, dealing continuous damage.",
+    "iconName": "icon_darktouch",
+    "postEffectPrefabName": "DarkTouchEffect",
+    "postReceiveEffectPrefabName": "DarkTouchHit",
+    "effectDamageAmount": 15,
+    "effectActiveTime": 6,
+    "effectDistance": 2,
+    "stackable": true
+  },
+  {
+    "id": 4,
+    "type": "obsidianCircle",
+    "name": "Obsidian Circle",
+    "description": "Summons a damaging obsidian ring around the target area.",
+    "iconName": "icon_obsidian",
+    "postEffectPrefabName": "ObsidianEffect",
+    "postReceiveEffectPrefabName": "ObsidianHit",
+    "effectDamageAmount": 35,
+    "effectActiveTime": 4,
+    "effectDistance": 4,
+    "stackable": false
+  }
+]

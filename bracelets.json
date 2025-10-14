@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Bracelet",
+    "subType": "BlazingBracelet",
+    "rarity": "Common",
+    "name": "Blazing Bracelet",
+    "description": "Increases flame damage and attack speed.",
+    "iconName": "icon_blazingbracelet",
+    "stats": [
+      { "type": "DealsFlameDamage", "value": 5, "desc": "Deals 5 additional flame damage" },
+      { "type": "AttackSpeed", "value": 3, "desc": "Increases attack speed by 3%" }
+    ],
+    "statsId": 601
+  },
+  {
+    "id": 2,
+    "type": "Bracelet",
+    "subType": "FrozenBracelet",
+    "rarity": "Rare",
+    "name": "Frozen Bracelet",
+    "description": "Freezes enemies and increases projectile resistance.",
+    "iconName": "icon_frozenbracelet",
+    "stats": [
+      { "type": "FreezeEnemies", "value": 7, "desc": "7% chance to freeze enemies" },
+      { "type": "ProjectileResistnce", "value": 5, "desc": "Reduces projectile damage by 5%" }
+    ],
+    "statsId": 602
+  },
+  {
+    "id": 3,
+    "type": "Bracelet",
+    "subType": "SplitBracelet",
+    "rarity": "Epic",
+    "name": "Split Bracelet",
+    "description": "Splits attacks for additional damage to multiple targets.",
+    "iconName": "icon_splitbracelet",
+    "stats": [
+      { "type": "Attack", "value": 15, "desc": "Increases attack by 15" },
+      { "type": "BoomerangIncreasedDmgOnReturn", "value": 8, "desc": "8% extra damage on boomerang return" }
+    ],
+    "statsId": 603
+  },
+  {
+    "id": 4,
+    "type": "Bracelet",
+    "subType": "ThunderBracelet",
+    "rarity": "Legendary",
+    "name": "Thunder Bracelet",
+    "description": "Strikes enemies with lightning and increases critical chance.",
+    "iconName": "icon_thunderbracelet",
+    "stats": [
+      { "type": "DealsLightningSplash", "value": 12, "desc": "Deals 12 lightning splash damage" },
+      { "type": "CritChance", "value": 10, "desc": "Increases critical chance by 10%" }
+    ],
+    "statsId": 604
+  }
+]

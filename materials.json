@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "WeaponScroll",
+    "name": "Basic Weapon Scroll",
+    "desc": "Used to upgrade weapons.",
+    "iconName": "icon_weaponscroll_basic"
+  },
+  {
+    "id": 2,
+    "type": "ArmorScroll",
+    "name": "Basic Armor Scroll",
+    "desc": "Used to upgrade armors.",
+    "iconName": "icon_armorscroll_basic"
+  },
+  {
+    "id": 3,
+    "type": "RingScroll",
+    "name": "Ring Scroll",
+    "desc": "Used to upgrade rings.",
+    "iconName": "icon_ringscroll_basic"
+  },
+  {
+    "id": 4,
+    "type": "SpiritScroll",
+    "name": "Spirit Scroll",
+    "desc": "Used to upgrade spirits.",
+    "iconName": "icon_spiritscroll_basic"
+  },
+  {
+    "id": 5,
+    "type": "LocketScroll",
+    "name": "Locket Scroll",
+    "desc": "Used to upgrade lockets.",
+    "iconName": "icon_locketscroll_basic"
+  },
+  {
+    "id": 6,
+    "type": "BraceletScroll",
+    "name": "Bracelet Scroll",
+    "desc": "Used to upgrade bracelets.",
+    "iconName": "icon_braceletscroll_basic"
+  },
+  {
+    "id": 7,
+    "type": "Sapphire",
+    "name": "Blue Sapphire",
+    "desc": "Rare gemstone used for crafting or evolving equipment.",
+    "iconName": "icon_sapphire"
+  },
+  {
+    "id": 8,
+    "type": "EvoloutionChip",
+    "name": "Evolution Chip",
+    "desc": "Special chip required for evolving equipment to higher rarity.",
+    "iconName": "icon_evolutionchip"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "bulletId": 101,
+  "health": 100,
+  "bonusHealth": 20,
+  "currentHealth": 100,
+  "currentGem": 50,
+  "currentGold": 200,
+  "totalEnergy": 10,
+  "currentEnergy": 10,
+  "heroId": 1,
+  "timeForEnergyRefill": 300,
+  "xpPerGoldForLevelUp": 5,
+  "energyForPlay": 2,
+  "reviveCost": 25,
+  "arrowSkills": [1, 2, 3],
+  "explosiveSkills": [1, 2],
+  "boostSkills": [1, 3]
+}

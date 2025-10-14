@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type": "Weapons",
+    "subType": "BraveBow",
+    "rarity": "Common",
+    "name": "Brave Bow",
+    "description": "A basic bow with decent range.",
+    "iconName": "icon_bravebow",
+    "stats": [
+      { "statType": "attack", "value": 10 },
+      { "statType": "speed", "value": 5 }
+    ],
+    "statsId": 101
+  },
+  {
+    "id": 2,
+    "type": "Weapons",
+    "subType": "DeathScythe",
+    "rarity": "Rare",
+    "name": "Death Scythe",
+    "description": "A scythe that deals massive damage.",
+    "iconName": "icon_deathscythe",
+    "stats": [
+      { "statType": "attack", "value": 25 },
+      { "statType": "critical", "value": 10 }
+    ],
+    "statsId": 102
+  },
+  {
+    "id": 3,
+    "type": "Weapons",
+    "subType": "Tornado",
+    "rarity": "Epic",
+    "name": "Tornado",
+    "description": "Shoots whirlwind arrows that hit multiple enemies.",
+    "iconName": "icon_tornado",
+    "stats": [
+      { "statType": "attack", "value": 20 },
+      { "statType": "areaDamage", "value": 15 }
+    ],
+    "statsId": 103
+  },
+  {
+    "id": 4,
+    "type": "Weapons",
+    "subType": "SawBlade",
+    "rarity": "Great",
+    "name": "Saw Blade",
+    "description": "A spinning blade weapon for melee attacks.",
+    "iconName": "icon_sawblade",
+    "stats": [
+      { "statType": "attack", "value": 15 },
+      { "statType": "speed", "value": 10 }
+    ],
+    "statsId": 104
+  },
+  {
+    "id": 5,
+    "type": "Weapons",
+    "subType": "Brightspear",
+    "rarity": "Legendary",
+    "name": "Bright Spear",
+    "description": "A legendary spear with radiant power.",
+    "iconName": "icon_brightspear",
+    "stats": [
+      { "statType": "attack", "value": 35 },
+      { "statType": "range", "value": 20 }
+    ],
+    "statsId": 105
+  }
+]

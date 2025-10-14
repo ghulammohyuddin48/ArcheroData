@@ -1,0 +1,62 @@
+{
+  "stageLevelStats": [
+    {
+      "targetCoinsForNextLevel": 100,
+      "firstSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.5, "skillCategory": "arrow" },
+        { "skillId": 2, "probability": 0.3, "skillCategory": "arrow" }
+      ],
+      "secondSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.4, "skillCategory": "explosive" },
+        { "skillId": 2, "probability": 0.6, "skillCategory": "explosive" }
+      ],
+      "thirdSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.7, "skillCategory": "boost" }
+      ]
+    },
+    {
+      "targetCoinsForNextLevel": 200,
+      "firstSlotSkillRewardsForLevelUp": [
+        { "skillId": 3, "probability": 0.6, "skillCategory": "arrow" },
+        { "skillId": 4, "probability": 0.4, "skillCategory": "arrow" }
+      ],
+      "secondSlotSkillRewardsForLevelUp": [
+        { "skillId": 3, "probability": 0.5, "skillCategory": "explosive" },
+        { "skillId": 4, "probability": 0.5, "skillCategory": "explosive" }
+      ],
+      "thirdSlotSkillRewardsForLevelUp": [
+        { "skillId": 2, "probability": 0.6, "skillCategory": "boost" },
+        { "skillId": 3, "probability": 0.4, "skillCategory": "boost" }
+      ]
+    },
+    {
+      "targetCoinsForNextLevel": 350,
+      "firstSlotSkillRewardsForLevelUp": [
+        { "skillId": 5, "probability": 0.5, "skillCategory": "arrow" }
+      ],
+      "secondSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.4, "skillCategory": "explosive" },
+        { "skillId": 4, "probability": 0.6, "skillCategory": "explosive" }
+      ],
+      "thirdSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.5, "skillCategory": "boost" },
+        { "skillId": 4, "probability": 0.5, "skillCategory": "boost" }
+      ]
+    },
+    {
+      "targetCoinsForNextLevel": 500,
+      "firstSlotSkillRewardsForLevelUp": [
+        { "skillId": 1, "probability": 0.3, "skillCategory": "arrow" },
+        { "skillId": 5, "probability": 0.7, "skillCategory": "arrow" }
+      ],
+      "secondSlotSkillRewardsForLevelUp": [
+        { "skillId": 2, "probability": 0.5, "skillCategory": "explosive" },
+        { "skillId": 3, "probability": 0.5, "skillCategory": "explosive" }
+      ],
+      "thirdSlotSkillRewardsForLevelUp": [
+        { "skillId": 3, "probability": 0.6, "skillCategory": "boost" },
+        { "skillId": 4, "probability": 0.4, "skillCategory": "boost" }
+      ]
+    }
+  ]
+}

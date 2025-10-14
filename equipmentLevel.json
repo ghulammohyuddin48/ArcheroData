@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Common",
+    "totalLevels": 5
+  },
+  {
+    "id": 2,
+    "type": "Great",
+    "totalLevels": 7
+  },
+  {
+    "id": 3,
+    "type": "Rare",
+    "totalLevels": 10
+  },
+  {
+    "id": 4,
+    "type": "Epic",
+    "totalLevels": 12
+  },
+  {
+    "id": 5,
+    "type": "PerfectEpic",
+    "totalLevels": 15
+  },
+  {
+    "id": 6,
+    "type": "Legendary",
+    "totalLevels": 20
+  }
+]

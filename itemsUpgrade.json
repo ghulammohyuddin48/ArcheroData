@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "gold": 100,
+    "scrolls": 1
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "gold": 200,
+    "scrolls": 2
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "gold": 400,
+    "scrolls": 3
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "gold": 700,
+    "scrolls": 4
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "gold": 1200,
+    "scrolls": 5
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "gold": 2000,
+    "scrolls": 6
+  }
+]

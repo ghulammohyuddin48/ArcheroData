@@ -1,0 +1,36 @@
+[
+  {
+    "firstSlotSkillRewardsForGlory": [
+      { "skillId": 1, "probability": 0.5, "skillCategory": "arrow" },
+      { "skillId": 2, "probability": 0.3, "skillCategory": "explosive" },
+      { "skillId": 3, "probability": 0.2, "skillCategory": "boost" }
+    ],
+    "secondSlotSkillRewardsForGlory": [
+      { "skillId": 4, "probability": 0.4, "skillCategory": "arrow" },
+      { "skillId": 5, "probability": 0.35, "skillCategory": "explosive" },
+      { "skillId": 6, "probability": 0.25, "skillCategory": "boost" }
+    ],
+    "thirdSlotSkillRewardsForGlory": [
+      { "skillId": 7, "probability": 0.6, "skillCategory": "arrow" },
+      { "skillId": 8, "probability": 0.25, "skillCategory": "explosive" },
+      { "skillId": 9, "probability": 0.15, "skillCategory": "boost" }
+    ]
+  },
+  {
+    "firstSlotSkillRewardsForGlory": [
+      { "skillId": 10, "probability": 0.5, "skillCategory": "arrow" },
+      { "skillId": 11, "probability": 0.3, "skillCategory": "explosive" },
+      { "skillId": 12, "probability": 0.2, "skillCategory": "boost" }
+    ],
+    "secondSlotSkillRewardsForGlory": [
+      { "skillId": 13, "probability": 0.45, "skillCategory": "arrow" },
+      { "skillId": 14, "probability": 0.35, "skillCategory": "explosive" },
+      { "skillId": 15, "probability": 0.2, "skillCategory": "boost" }
+    ],
+    "thirdSlotSkillRewardsForGlory": [
+      { "skillId": 16, "probability": 0.55, "skillCategory": "arrow" },
+      { "skillId": 17, "probability": 0.3, "skillCategory": "explosive" },
+      { "skillId": 18, "probability": 0.15, "skillCategory": "boost" }
+    ]
+  }
+]

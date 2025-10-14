@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "Strength",
+    "iconName": "icon_strength",
+    "name": "Strength Boost",
+    "description": "Increases base attack damage.",
+    "effect": "IncreaseAttack",
+    "stats": [5, 10, 15]
+  },
+  {
+    "id": 2,
+    "type": "Power",
+    "iconName": "icon_power",
+    "name": "Power Surge",
+    "description": "Temporarily increases skill damage.",
+    "effect": "IncreaseSkillDamage",
+    "stats": [10, 20, 30]
+  },
+  {
+    "id": 3,
+    "type": "Recover",
+    "iconName": "icon_recover",
+    "name": "Quick Recovery",
+    "description": "Regenerates health over time.",
+    "effect": "HealthRegen",
+    "stats": [2, 4, 6]
+  },
+  {
+    "id": 4,
+    "type": "Block",
+    "iconName": "icon_block",
+    "name": "Shield Block",
+    "description": "Chance to block incoming damage.",
+    "effect": "BlockChance",
+    "stats": [5, 10, 15]
+  },
+  {
+    "id": 5,
+    "type": "IronBulwalk",
+    "iconName": "icon_ironbulwalk",
+    "name": "Iron Bulwark",
+    "description": "Reduces damage taken from bullets.",
+    "effect": "BulletDamageReduction",
+    "stats": [3, 6, 9]
+  },
+  {
+    "id": 6,
+    "type": "Agile",
+    "iconName": "icon_agile",
+    "name": "Agility",
+    "description": "Increase movement speed and dodge chance.",
+    "effect": "IncreaseSpeedAndDodge",
+    "stats": [2, 4, 6]
+  },
+  {
+    "id": 7,
+    "type": "Inspire",
+    "iconName": "icon_inspire",
+    "name": "Inspire",
+    "description": "Boosts nearby allies’ attack damage.",
+    "effect": "AllyAttackBoost",
+    "stats": [5, 10, 15]
+  },
+  {
+    "id": 8,
+    "type": "Glory",
+    "iconName": "icon_glory",
+    "name": "Glory",
+    "description": "Increases gold earned from battles.",
+    "effect": "IncreaseGold",
+    "stats": [10, 20, 30]
+  },
+  {
+    "id": 9,
+    "type": "PatrolEarnings",
+    "iconName": "icon_patrolearnings",
+    "name": "Patrol Earnings",
+    "description": "Generates extra rewards from patrol missions.",
+    "effect": "ExtraPatrolRewards",
+    "stats": [5, 10, 15]
+  },
+  {
+    "id": 10,
+    "type": "EnhanceEquipment",
+    "iconName": "icon_enhanceequipment",
+    "name": "Enhance Equipment",
+    "description": "Improves stats of equipped items.",
+    "effect": "EquipmentBoost",
+    "stats": [3, 6, 9]
+  },
+  {
+    "id": 11,
+    "type": "HeroPowerup",
+    "iconName": "icon_heropowerup",
+    "name": "Hero Power Up",
+    "description": "Boosts hero’s main abilities temporarily.",
+    "effect": "HeroAbilityBoost",
+    "stats": [5, 10, 15]
+  },
+  {
+    "id": 12,
+    "type": "RunePowerup",
+    "iconName": "icon_runepowerup",
+    "name": "Rune Power Up",
+    "description": "Enhances rune effects and passive bonuses.",
+    "effect": "RuneBoost",
+    "stats": [2, 4, 6]
+  }
+]

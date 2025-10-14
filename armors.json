@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Armor",
+    "subType": "GoldenChestplate",
+    "rarity": "Common",
+    "name": "Golden Chestplate",
+    "description": "Provides basic protection for heroes.",
+    "iconName": "icon_goldenchestplate",
+    "stats": [
+      { "statType": "defense", "value": 15 },
+      { "statType": "health", "value": 50 }
+    ],
+    "statsId": 201
+  },
+  {
+    "id": 2,
+    "type": "Armor",
+    "subType": "PhantomCloak",
+    "rarity": "Rare",
+    "name": "Phantom Cloak",
+    "description": "Grants agility and reduces enemy hit chance.",
+    "iconName": "icon_phantomcloak",
+    "stats": [
+      { "statType": "defense", "value": 10 },
+      { "statType": "evasion", "value": 15 }
+    ],
+    "statsId": 202
+  },
+  {
+    "id": 3,
+    "type": "Armor",
+    "subType": "VestOfDexterity",
+    "rarity": "Epic",
+    "name": "Vest of Dexterity",
+    "description": "Enhances agility and attack speed.",
+    "iconName": "icon_vestofdexterity",
+    "stats": [
+      { "statType": "evasion", "value": 20 },
+      { "statType": "attackSpeed", "value": 10 }
+    ],
+    "statsId": 203
+  },
+  {
+    "id": 4,
+    "type": "Armor",
+    "subType": "VoidRobe",
+    "rarity": "Legendary",
+    "name": "Void Robe",
+    "description": "Protects against magical damage and increases mana.",
+    "iconName": "icon_voidrobe",
+    "stats": [
+      { "statType": "magicDefense", "value": 25 },
+      { "statType": "mana", "value": 50 }
+    ],
+    "statsId": 204
+  }
+]

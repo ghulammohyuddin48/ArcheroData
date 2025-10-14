@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Locket",
+    "subType": "AgileLocket",
+    "rarity": "Common",
+    "name": "Agile Locket",
+    "description": "Increases dodge and movement speed.",
+    "iconName": "icon_agilelocket",
+    "stats": [
+      { "type": "Dodge", "value": 5, "desc": "Increases dodge chance by 5%" },
+      { "type": "AttackSpeed", "value": 3, "desc": "Increases attack speed by 3%" }
+    ],
+    "statsId": 501
+  },
+  {
+    "id": 2,
+    "type": "Locket",
+    "subType": "AngelLocket",
+    "rarity": "Rare",
+    "name": "Angel Locket",
+    "description": "Boosts healing and resistance to damage.",
+    "iconName": "icon_angellocket",
+    "stats": [
+      { "type": "HealingEffectOfRedHeart", "value": 10, "desc": "Heals 10% more from red hearts" },
+      { "type": "DamageResistance", "value": 5, "desc": "Reduces incoming damage by 5%" }
+    ],
+    "statsId": 502
+  },
+  {
+    "id": 3,
+    "type": "Locket",
+    "subType": "BulletproofLocket",
+    "rarity": "Epic",
+    "name": "Bulletproof Locket",
+    "description": "Reduces projectile damage and boosts defense.",
+    "iconName": "icon_bulletprooflocket",
+    "stats": [
+      { "type": "ProjectileResistnce", "value": 15, "desc": "Reduces projectile damage by 15%" },
+      { "type": "DamageResistance", "value": 10, "desc": "Reduces incoming damage by 10%" }
+    ],
+    "statsId": 503
+  },
+  {
+    "id": 4,
+    "type": "Locket",
+    "subType": "IronLocket",
+    "rarity": "Legendary",
+    "name": "Iron Locket",
+    "description": "Greatly increases defense and health.",
+    "iconName": "icon_ironlocket",
+    "stats": [
+      { "type": "DamageResistance", "value": 20, "desc": "Reduces incoming damage by 20%" },
+      { "type": "HealingEffectOfRedHeart", "value": 15, "desc": "Heals 15% more from red hearts" }
+    ],
+    "statsId": 504
+  }
+]

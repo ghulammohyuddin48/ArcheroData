@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Spirit",
+    "subType": "Elf",
+    "rarity": "Common",
+    "name": "Forest Elf",
+    "description": "A spirit that increases agility and dodge chance.",
+    "iconName": "icon_elf",
+    "stats": [
+      { "type": "Dodge", "value": 5, "desc": "Increases dodge chance by 5%" },
+      { "type": "AttackSpeed", "value": 3, "desc": "Increases attack speed by 3%" }
+    ],
+    "statsId": 401
+  },
+  {
+    "id": 2,
+    "type": "Spirit",
+    "subType": "LaserBat",
+    "rarity": "Rare",
+    "name": "Laser Bat",
+    "description": "Deals lightning damage to enemies.",
+    "iconName": "icon_laserbat",
+    "stats": [
+      { "type": "DealsLightningSplash", "value": 7, "desc": "Deals 7 lightning splash damage" },
+      { "type": "Attack", "value": 10, "desc": "Increases attack by 10" }
+    ],
+    "statsId": 402
+  },
+  {
+    "id": 3,
+    "type": "Spirit",
+    "subType": "LivingBomb",
+    "rarity": "Epic",
+    "name": "Living Bomb",
+    "description": "Explodes to deal AoE damage after a short delay.",
+    "iconName": "icon_livingbomb",
+    "stats": [
+      { "type": "DealsFlameDamage", "value": 12, "desc": "Deals 12 flame damage to all enemies" },
+      { "type": "Attack", "value": 8, "desc": "Increases attack by 8" }
+    ],
+    "statsId": 403
+  },
+  {
+    "id": 4,
+    "type": "Spirit",
+    "subType": "ScytheMage",
+    "rarity": "Legendary",
+    "name": "Scythe Mage",
+    "description": "Summons magical scythes to attack multiple enemies.",
+    "iconName": "icon_scythemage",
+    "stats": [
+      { "type": "Attack", "value": 20, "desc": "Increases attack by 20" },
+      { "type": "FreezeEnemies", "value": 5, "desc": "Chance to freeze enemies for 5%" }
+    ],
+    "statsId": 404
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "gold": 100,
+    "levelGate": 1,
+    "talent": "Strength"
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "gold": 200,
+    "levelGate": 2,
+    "talent": "Strength"
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "gold": 400,
+    "levelGate": 3,
+    "talent": "Strength"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "gold": 120,
+    "levelGate": 1,
+    "talent": "Power"
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "gold": 240,
+    "levelGate": 2,
+    "talent": "Power"
+  },
+  {
+    "id": 6,
+    "level": 3,
+    "gold": 480,
+    "levelGate": 3,
+    "talent": "Power"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "gold": 80,
+    "levelGate": 1,
+    "talent": "Recover"
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "gold": 160,
+    "levelGate": 2,
+    "talent": "Recover"
+  },
+  {
+    "id": 9,
+    "level": 3,
+    "gold": 320,
+    "levelGate": 3,
+    "talent": "Recover"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "gold": 90,
+    "levelGate": 1,
+    "talent": "Block"
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "gold": 180,
+    "levelGate": 2,
+    "talent": "Block"
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "gold": 360,
+    "levelGate": 3,
+    "talent": "Block"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "gold": 110,
+    "levelGate": 1,
+    "talent": "IronBulwalk"
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "gold": 220,
+    "levelGate": 2,
+    "talent": "IronBulwalk"
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "gold": 440,
+    "levelGate": 3,
+    "talent": "IronBulwalk"
+  }
+]

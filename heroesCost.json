@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "gold": 100,
+    "sapphires": 1
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "gold": 200,
+    "sapphires": 2
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "gold": 400,
+    "sapphires": 3
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "gold": 700,
+    "sapphires": 4
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "gold": 1200,
+    "sapphires": 5
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "gold": 2000,
+    "sapphires": 6
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "gold": 3000,
+    "sapphires": 8
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "gold": 4500,
+    "sapphires": 10
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "gold": 6500,
+    "sapphires": 12
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "gold": 9000,
+    "sapphires": 15
+  }
+]
