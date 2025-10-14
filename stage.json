@@ -15,8 +15,8 @@
         "horizantalMovementTiles": 0,
         "entryDamage": 10.0,
         "stayDamage": 2.0,
-        "obstaclePrefabName": "spikeTrap",
-        "obstaclePathPrefabName": "trapPath",
+        "obstaclePrefabName": "SawMoveableObstacle",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": false
       }
@@ -69,8 +69,8 @@
         "horizantalMovementTiles": 1,
         "entryDamage": 0.0,
         "stayDamage": 0.0,
-        "obstaclePrefabName": "box",
-        "obstaclePathPrefabName": "pathBox",
+        "obstaclePrefabName": "BlockObstacle",
+        "obstaclePathPrefabName": "PathBlock",
         "blockedObstacle": true,
         "placeHolderObstacle": false
       }
@@ -105,8 +105,8 @@
         "horizantalMovementTiles": 1,
         "entryDamage": 5.0,
         "stayDamage": 3.0,
-        "obstaclePrefabName": "fireTrap",
-        "obstaclePathPrefabName": "firePath",
+        "obstaclePrefabName": "WaterObstacle",
+        "obstaclePathPrefabName": "",
         "blockedObstacle": false,
         "placeHolderObstacle": true
       }
