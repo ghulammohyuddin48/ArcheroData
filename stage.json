@@ -36,7 +36,7 @@
     "angel": {
       "row": 2,
       "col": 5,
-      "angelPrefabName": "angelBlue",
+      "angelPrefabName": "Angel",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 1,
@@ -131,7 +131,7 @@
     "angel": {
       "row": 1,
       "col": 1,
-      "angelPrefabName": "angelRed",
+      "angelPrefabName": "Angel",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 3,
@@ -149,3 +149,4 @@
     }
   }
 ]
+
