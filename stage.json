@@ -16,7 +16,7 @@
         "entryDamage": 10.0,
         "stayDamage": 2.0,
         "obstaclePrefabName": "SawMoveableObstacle",
-        "obstaclePathPrefabName": "trapPath",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": false
       },
@@ -32,7 +32,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "Plant1",
-        "obstaclePathPrefabName": "pathPlant",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": true,
         "placeHolderObstacle": false
       }
@@ -52,7 +52,7 @@
     "angel": {
       "row": 2,
       "col": 5,
-      "angelPrefabName": "angelBlue",
+      "angelPrefabName": "Angel",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 1,
@@ -86,7 +86,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "BlockObstacle",
-        "obstaclePathPrefabName": "pathBlock",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": true,
         "placeHolderObstacle": false
       },
@@ -102,7 +102,7 @@
         "entryDamage": 8.0,
         "stayDamage": 1.5,
         "obstaclePrefabName": "Grill",
-        "obstaclePathPrefabName": "grillPath",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": true
       }
@@ -154,7 +154,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "WaterObstacle",
-        "obstaclePathPrefabName": "waterPath",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": false
       }
@@ -179,7 +179,7 @@
     "angel": {
       "row": 1,
       "col": 1,
-      "angelPrefabName": "angelRed",
+      "angelPrefabName": "Angel",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 3,
