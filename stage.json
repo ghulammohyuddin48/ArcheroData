@@ -119,7 +119,25 @@
         "col": 2
       }
     ],
-    "angel": null
+   "angel": {
+      "row": 2,
+      "col": 5,
+      "angelPrefabName": "Angel",
+      "firstSlotSkillRewardsForAngel": [
+        {
+          "skillId": 1,
+          "probability": 0.7,
+          "skillCategory": "arrow"
+        }
+      ],
+      "secondSlotSkillRewardsForAngel": [
+        {
+          "skillId": 2,
+          "probability": 0.3,
+          "skillCategory": "boost"
+        }
+      ]
+    }
   },
   {
     "width": 15,
@@ -197,3 +215,4 @@
     }
   }
 ]
+
