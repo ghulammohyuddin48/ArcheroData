@@ -89,8 +89,8 @@
       }
     ],
     "enemies": [
-      { "modelId": 201, "row": 4, "col": 5 },
-      { "modelId": 202, "row": 6, "col": 2 }
+      { "modelId": 1, "row": 4, "col": 5 },
+      { "modelId": 2, "row": 6, "col": 2 }
     ],
     "angel": null
   },
@@ -117,8 +117,8 @@
       }
     ],
     "enemies": [
-      { "modelId": 301, "row": 2, "col": 3 },
-      { "modelId": 302, "row": 5, "col": 6 }
+      { "modelId": 3, "row": 2, "col": 3 },
+      { "modelId": 4, "row": 5, "col": 6 }
     ],
     "angel": null
   },
@@ -145,8 +145,7 @@
       }
     ],
     "enemies": [
-      { "modelId": 401, "row": 3, "col": 5 },
-      { "modelId": 402, "row": 6, "col": 7 }
+      { "modelId": 5, "row": 3, "col": 5 }
     ],
     "angel": null
   },
@@ -164,4 +163,41 @@
         "_movementTime": 2.5,
         "verticalMovementTiles": 1,
         "horizantalMovementTiles": 1,
-        "entryDamage":
+        "entryDamage": 5.0,
+        "stayDamage": 3.0,
+        "obstaclePrefabName": "SawObstacle",
+        "obstaclePathPrefabName": "",
+        "blockedObstacle": false,
+        "placeHolderObstacle": true
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "type": "nonDamage",
+        "movetype": "stationary",
+        "movePathType": "horizontal",
+        "_movementTime": 0.0,
+        "verticalMovementTiles": 0,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 0.0,
+        "stayDamage": 0.0,
+        "obstaclePrefabName": "Grill",
+        "obstaclePathPrefabName": "",
+        "blockedObstacle": false,
+        "placeHolderObstacle": false
+      }
+    ],
+    "enemies": [],
+    "angel": {
+      "row": 1,
+      "col": 1,
+      "angelPrefabName": "Angel",
+      "firstSlotSkillRewardsForAngel": [
+        { "skillId": 3, "probability": 0.5, "skillCategory": "explosive" }
+      ],
+      "secondSlotSkillRewardsForAngel": [
+        { "skillId": 4, "probability": 0.4, "skillCategory": "arrow" }
+      ]
+    }
+  }
+]
