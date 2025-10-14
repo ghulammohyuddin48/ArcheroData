@@ -4,7 +4,7 @@
     "hero": "Atreus",
     "name": "Atreus the Brave",
     "desc": "A balanced hero excelling in both attack and defense.",
-    "iconName": "icon_atreus",
+    "iconName": "Atreus",
     "baseAttack": 50,
     "baseHP": 500,
     "perLevel": { "attack": 5, "hp": 50 },
@@ -14,8 +14,8 @@
     ],
     "gemsToUnlock": 100,
     "outfits": [
-      { "id": 1, "name": "Warrior Outfit", "iconName": "icon_atreus_warrior" },
-      { "id": 2, "name": "Stealth Outfit", "iconName": "icon_atreus_stealth" }
+      { "id": 1, "name": "Warrior Outfit", "iconName": "Atreus" },
+      { "id": 2, "name": "Stealth Outfit", "iconName": "Atreus" }
     ]
   },
   {
@@ -23,7 +23,7 @@
     "hero": "Urasil",
     "name": "Urasil the Swift",
     "desc": "A fast hero specialized in ranged attacks.",
-    "iconName": "icon_urasil",
+    "iconName": "Urasil",
     "baseAttack": 40,
     "baseHP": 400,
     "perLevel": { "attack": 6, "hp": 40 },
@@ -33,8 +33,8 @@
     ],
     "gemsToUnlock": 120,
     "outfits": [
-      { "id": 3, "name": "Ranger Outfit", "iconName": "icon_urasil_ranger" },
-      { "id": 4, "name": "Assassin Outfit", "iconName": "icon_urasil_assassin" }
+      { "id": 3, "name": "Ranger Outfit", "iconName": "Urasil" },
+      { "id": 4, "name": "Assassin Outfit", "iconName": "Urasil" }
     ]
   },
   {
@@ -42,7 +42,7 @@
     "hero": "Phoren",
     "name": "Phoren the Mighty",
     "desc": "A tank hero excelling in melee combat and damage resistance.",
-    "iconName": "icon_phoren",
+    "iconName": "Phoren",
     "baseAttack": 60,
     "baseHP": 600,
     "perLevel": { "attack": 7, "hp": 70 },
@@ -52,8 +52,8 @@
     ],
     "gemsToUnlock": 150,
     "outfits": [
-      { "id": 5, "name": "Guardian Outfit", "iconName": "icon_phoren_guardian" },
-      { "id": 6, "name": "Berserker Outfit", "iconName": "icon_phoren_berserker" }
+      { "id": 5, "name": "Guardian Outfit", "iconName": "Phoren" },
+      { "id": 6, "name": "Berserker Outfit", "iconName": "Phoren" }
     ]
   }
 ]
