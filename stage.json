@@ -16,8 +16,24 @@
         "entryDamage": 10.0,
         "stayDamage": 2.0,
         "obstaclePrefabName": "SawMoveableObstacle",
-        "obstaclePathPrefabName": "SawPath",
+        "obstaclePathPrefabName": "trapPath",
         "blockedObstacle": false,
+        "placeHolderObstacle": false
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "type": "nonDamage",
+        "movetype": "stationary",
+        "movePathType": "horizontal",
+        "_movementTime": 0.0,
+        "verticalMovementTiles": 0,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 0.0,
+        "stayDamage": 0.0,
+        "obstaclePrefabName": "Plant1",
+        "obstaclePathPrefabName": "pathPlant",
+        "blockedObstacle": true,
         "placeHolderObstacle": false
       }
     ],
@@ -36,7 +52,7 @@
     "angel": {
       "row": 2,
       "col": 5,
-      "angelPrefabName": "Angel",
+      "angelPrefabName": "angelBlue",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 1,
@@ -70,9 +86,25 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "BlockObstacle",
-        "obstaclePathPrefabName": "PathBlock",
+        "obstaclePathPrefabName": "pathBlock",
         "blockedObstacle": true,
         "placeHolderObstacle": false
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "type": "damage",
+        "movetype": "nonStationary",
+        "movePathType": "both",
+        "_movementTime": 1.2,
+        "verticalMovementTiles": 1,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 8.0,
+        "stayDamage": 1.5,
+        "obstaclePrefabName": "Grill",
+        "obstaclePathPrefabName": "grillPath",
+        "blockedObstacle": false,
+        "placeHolderObstacle": true
       }
     ],
     "enemies": [
@@ -105,10 +137,26 @@
         "horizantalMovementTiles": 1,
         "entryDamage": 5.0,
         "stayDamage": 3.0,
-        "obstaclePrefabName": "WaterObstacle",
-        "obstaclePathPrefabName": "",
+        "obstaclePrefabName": "SawObstacle",
+        "obstaclePathPrefabName": "sawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": true
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "type": "nonDamage",
+        "movetype": "stationary",
+        "movePathType": "horizontal",
+        "_movementTime": 0.0,
+        "verticalMovementTiles": 0,
+        "horizantalMovementTiles": 1,
+        "entryDamage": 0.0,
+        "stayDamage": 0.0,
+        "obstaclePrefabName": "WaterObstacle",
+        "obstaclePathPrefabName": "waterPath",
+        "blockedObstacle": false,
+        "placeHolderObstacle": false
       }
     ],
     "enemies": [
@@ -131,7 +179,7 @@
     "angel": {
       "row": 1,
       "col": 1,
-      "angelPrefabName": "Angel",
+      "angelPrefabName": "angelRed",
       "firstSlotSkillRewardsForAngel": [
         {
           "skillId": 3,
@@ -149,4 +197,3 @@
     }
   }
 ]
-
