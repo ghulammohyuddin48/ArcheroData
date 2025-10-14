@@ -16,7 +16,7 @@
         "entryDamage": 10.0,
         "stayDamage": 2.0,
         "obstaclePrefabName": "SawMoveableObstacle",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": false
       },
@@ -32,7 +32,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "Plant1",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": true,
         "placeHolderObstacle": false
       }
@@ -86,7 +86,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "BlockObstacle",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": true,
         "placeHolderObstacle": false
       },
@@ -102,7 +102,7 @@
         "entryDamage": 8.0,
         "stayDamage": 1.5,
         "obstaclePrefabName": "Grill",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": true
       }
@@ -138,7 +138,7 @@
         "entryDamage": 5.0,
         "stayDamage": 3.0,
         "obstaclePrefabName": "SawObstacle",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": true
       },
@@ -154,7 +154,7 @@
         "entryDamage": 0.0,
         "stayDamage": 0.0,
         "obstaclePrefabName": "WaterObstacle",
-        "obstaclePathPrefabName": "sawPath",
+        "obstaclePathPrefabName": "SawPath",
         "blockedObstacle": false,
         "placeHolderObstacle": false
       }
@@ -197,3 +197,4 @@
     }
   }
 ]
+
