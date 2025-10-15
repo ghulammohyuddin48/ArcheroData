@@ -37,7 +37,7 @@
     "collisionDamage": 30,
     "bulletId": 103,
     "reward": 100,
-    "arrowSkills": [5, 6],
+    "arrowSkills": [3, 5],
     "explosiveSkills": [2],
     "boostSkills": [1, 2]
   },
@@ -51,7 +51,7 @@
     "collisionDamage": 35,
     "bulletId": 104,
     "reward": 150,
-    "arrowSkills": [7, 8],
+    "arrowSkills": [4, 5],
     "explosiveSkills": [3],
     "boostSkills": []
   },
@@ -65,8 +65,9 @@
     "collisionDamage": 45,
     "bulletId": 105,
     "reward": 300,
-    "arrowSkills": [1, 4, 6],
+    "arrowSkills": [1, 2, 5],
     "explosiveSkills": [1, 3],
     "boostSkills": [2]
   }
 ]
+
