@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "Strength",
-    "iconName": "icon_strength",
+    "iconName": "Strength",
     "name": "Strength Boost",
     "description": "Increases base attack damage.",
     "effect": "IncreaseAttack",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "type": "Power",
-    "iconName": "icon_power",
+    "iconName": "Power",
     "name": "Power Surge",
     "description": "Temporarily increases skill damage.",
     "effect": "IncreaseSkillDamage",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "type": "Recover",
-    "iconName": "icon_recover",
+    "iconName": "Recover",
     "name": "Quick Recovery",
     "description": "Regenerates health over time.",
     "effect": "HealthRegen",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "type": "Block",
-    "iconName": "icon_block",
+    "iconName": "Block",
     "name": "Shield Block",
     "description": "Chance to block incoming damage.",
     "effect": "BlockChance",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "type": "IronBulwalk",
-    "iconName": "icon_ironbulwalk",
+    "iconName": "Iron Bulwalk",
     "name": "Iron Bulwark",
     "description": "Reduces damage taken from bullets.",
     "effect": "BulletDamageReduction",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "type": "Agile",
-    "iconName": "icon_agile",
+    "iconName": "Agile",
     "name": "Agility",
     "description": "Increase movement speed and dodge chance.",
     "effect": "IncreaseSpeedAndDodge",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "type": "Inspire",
-    "iconName": "icon_inspire",
+    "iconName": "Inspire",
     "name": "Inspire",
     "description": "Boosts nearby allies’ attack damage.",
     "effect": "AllyAttackBoost",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "type": "Glory",
-    "iconName": "icon_glory",
+    "iconName": "Glory",
     "name": "Glory",
     "description": "Increases gold earned from battles.",
     "effect": "IncreaseGold",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "type": "PatrolEarnings",
-    "iconName": "icon_patrolearnings",
+    "iconName": "Time Reward",
     "name": "Patrol Earnings",
     "description": "Generates extra rewards from patrol missions.",
     "effect": "ExtraPatrolRewards",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "type": "EnhanceEquipment",
-    "iconName": "icon_enhanceequipment",
+    "iconName": "Enhance Equipment",
     "name": "Enhance Equipment",
     "description": "Improves stats of equipped items.",
     "effect": "EquipmentBoost",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "type": "HeroPowerup",
-    "iconName": "icon_heropowerup",
+    "iconName": "Hero Powerup",
     "name": "Hero Power Up",
     "description": "Boosts hero’s main abilities temporarily.",
     "effect": "HeroAbilityBoost",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "type": "RunePowerup",
-    "iconName": "icon_runepowerup",
+    "iconName": "Rune Powerup",
     "name": "Rune Power Up",
     "description": "Enhances rune effects and passive bonuses.",
     "effect": "RuneBoost",
