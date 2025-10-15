@@ -12,7 +12,8 @@
   "xpPerGoldForLevelUp": 5,
   "energyForPlay": 2,
   "reviveCost": 25,
-  "arrowSkills": [1, 2, 3],
-  "explosiveSkills": [1, 2],
-  "boostSkills": [1, 3]
+  "arrowSkills": [],
+  "explosiveSkills": [],
+  "boostSkills": []
 }
+
