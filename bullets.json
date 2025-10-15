@@ -130,8 +130,8 @@
     "_chillingBlastId": 0,
     "_isDeathBomb": true,
     "_deathBombId": 301,
-    "_isDarkTouch": true,
-    "_darkTouchId": 401,
+    "_isDarkTouch": false,
+    "_darkTouchId": 0,
     "_isObsidian": true,
     "_obsidianId": 501,
     "_isAttackBoostMajor": true,
@@ -144,4 +144,5 @@
     "_attackSpeedBoostMinorAdditionalSpeed": 0
   }
 ]
+
 
