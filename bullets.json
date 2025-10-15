@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "type": "straight",
+    "type": "parabola",
     "preEffectType": "none",
     "postEffectType": "none",
     "damage": 25,
@@ -37,9 +37,9 @@
   },
   {
     "id": 102,
-    "type": "zigzag",
-    "preEffectType": "trajectory",
-    "postEffectType": "fire",
+    "type": "parabola",
+    "preEffectType": "none",
+    "postEffectType": "none",
     "damage": 30,
     "bonusDamage": 10,
     "bonusSpeedPercentage": 15,
@@ -74,7 +74,7 @@
   {
     "id": 103,
     "type": "parabola",
-    "preEffectType": "targetShow",
+    "preEffectType": "none",
     "postEffectType": "ice",
     "damage": 40,
     "bonusDamage": 15,
@@ -144,3 +144,4 @@
     "_attackSpeedBoostMinorAdditionalSpeed": 0
   }
 ]
+
