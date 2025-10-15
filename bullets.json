@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "type": "parabola",
+    "type": "straight",
     "preEffectType": "none",
     "postEffectType": "none",
     "damage": 25,
@@ -11,7 +11,7 @@
     "speed": 15,
     "range": 20,
     "interval": 0.5,
-    "bulletPrefabName": "YellowPortionBullet",
+    "bulletPrefabName": "BulletArrow",
     "bulletPostEffectPrefabName": "",
     "bulletPreEffectPrefabName": "",
     "_isBouncy": false,
@@ -144,5 +144,6 @@
     "_attackSpeedBoostMinorAdditionalSpeed": 0
   }
 ]
+
 
 
