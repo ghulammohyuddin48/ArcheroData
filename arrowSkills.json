@@ -4,7 +4,7 @@
     "type": "multishot",
     "name": "Multi Shot",
     "description": "Shoots multiple arrows in a wide spread.",
-    "iconName": "icon_multishot",
+    "iconName": "multishot.png",
     "additionalDamageAmount": 5.0,
     "additionalAttackSpeedAmount": 0.0
   },
@@ -13,7 +13,7 @@
     "type": "ricochet",
     "name": "Ricochet",
     "description": "Arrows bounce between nearby enemies.",
-    "iconName": "icon_ricochet",
+    "iconName": "ricochet.png",
     "additionalDamageAmount": 3.0,
     "additionalAttackSpeedAmount": 0.0
   },
@@ -22,7 +22,7 @@
     "type": "frontArrow",
     "name": "Front Arrow",
     "description": "Shoots an additional arrow forward.",
-    "iconName": "icon_frontarrow",
+    "iconName": "attackBoostMinor.png",
     "additionalDamageAmount": 2.0,
     "additionalAttackSpeedAmount": 0.0
   },
@@ -31,7 +31,7 @@
     "type": "Piercing",
     "name": "Piercing Arrow",
     "description": "Arrows pierce through multiple enemies.",
-    "iconName": "icon_piercing",
+    "iconName": "attackBoostMajor.png",
     "additionalDamageAmount": 6.0,
     "additionalAttackSpeedAmount": 0.0
   },
@@ -40,7 +40,7 @@
     "type": "bouncy",
     "name": "Bouncy Arrow",
     "description": "Arrows bounce off walls and obstacles.",
-    "iconName": "icon_bouncy",
+    "iconName": "bouncy.png",
     "additionalDamageAmount": 4.0,
     "additionalAttackSpeedAmount": 0.0
   }
