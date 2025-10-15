@@ -4,7 +4,7 @@
     "type": "attackBoostMajor",
     "name": "Attack Boost Major",
     "description": "Greatly increases attack damage for a limited time.",
-    "iconName": "icon_attackboost_major",
+    "iconName": "attackboost_major.png",
     "effectPrefabName": "AttackBoostMajorEffect",
     "effectDamageAmount": 20,
     "additive": false
@@ -14,7 +14,7 @@
     "type": "attackBoostMinor",
     "name": "Attack Boost Minor",
     "description": "Slightly increases attack damage.",
-    "iconName": "icon_attackboost_minor",
+    "iconName": "attackboost_minor.png",
     "effectPrefabName": "AttackBoostMinorEffect",
     "effectDamageAmount": 8,
     "additive": true
@@ -24,7 +24,7 @@
     "type": "attackSpeedBoostMajor",
     "name": "Attack Speed Boost Major",
     "description": "Significantly increases attack speed.",
-    "iconName": "icon_attackspeedboost_major",
+    "iconName": "attackspeedboost_major.png",
     "effectPrefabName": "AttackSpeedBoostMajorEffect",
     "effectDamageAmount": 0,
     "additive": false
@@ -34,7 +34,7 @@
     "type": "attackSpeedBoostMinor",
     "name": "Attack Speed Boost Minor",
     "description": "Slightly increases attack speed.",
-    "iconName": "icon_attackspeedboost_minor",
+    "iconName": "attackspeedboost_minor.png",
     "effectPrefabName": "AttackSpeedBoostMinorEffect",
     "effectDamageAmount": 0,
     "additive": true
